@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "晴るる",
+  "base_artist": "Atarayo",
+  "createdAt": "2026-03-13T10:31:14.057556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "晴るる - Acoustic ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_晴るる_-_Acoustic_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "晴るる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_晴るる_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "晴るる",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_晴るる_あたらよ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "晴るる",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_02_晴るる_あたらよ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "晴るる",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_03_晴るる_あたらよ.txt"
+    }
+  ]
+}
